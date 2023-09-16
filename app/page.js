@@ -91,7 +91,8 @@ const page = () => {
     <>
       <div>
         <h2>My Tower of Blocks</h2>
-        <h2>Hey there!</h2>
+        <h2>Second commit</h2>
+        <h3>Third commit</h3>
         <p>
           Height: {tower} {value1}
         </p>
